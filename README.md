@@ -1,1 +1,1 @@
-# Fast-Similarity-QuadTree
+# Geo-Similarity-QuadTree
